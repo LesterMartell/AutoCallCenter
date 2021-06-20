@@ -9,4 +9,3 @@ AutoCallCenter v1.4
 
 Сама программа находится в архиве "AutoCallCenter v1.4.rar".
 Unity - Проект можно найти в папке "FirstProject_AutoCallCenter"
-Презентация программы в папке "Презентация"
