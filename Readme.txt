@@ -8,7 +8,6 @@ AutoCallCenter v1.4
 Соответственно AutoCallCenter сделана именно для работы сотрудников Контакт-Центра вышеназванной компании.
 
 Сама программа находится в архиве "AutoCallCenter v1.4.rar".
-Unity - Проект можно найти по ссылке: https://drive.google.com/file/d/1BmFFlzutTsZm992fMg09E0hRcjQKQ306/view?usp=sharing
 
 Основные Функции:
 1. Выставление Городов проживания/прописки
